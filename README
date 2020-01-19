@@ -7,6 +7,9 @@ Pour lancer le projet :
 
 
 2. Modifier dans le fichier extractor.py les path du parseur necessaires (3 path à modifier)
+
+3. Installer toutes les dépendances avec pip2 et pip3 (attention aux différentes versions de python utilisées)
+
 3. executer "./run.sh Filename" (Attention aux permissions sur le fichier run.sh )
 
 Le programme va sortir 3 fichiers: 
