@@ -2,7 +2,7 @@ Pour lancer le projet :
 
 1. Télécharger le parseur stanford version 3.5.1 (https://nlp.stanford.edu/software/stanford-parser-full-2015-01-29.zip)
 
-2. Extraire avec un gestionnaire d'archives l'archive stanford-parser-3.5.1-models.jar contenu dans le dossier du parseur.
+2. Extraire avec un gestionnaire d'archives l'archive stanford-parser-full-2015-01-29.zip ainsi que le stanford-parser-3.5.1-models.jar contenu dans le dossier du parseur.
 
 
 
