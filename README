@@ -1,0 +1,17 @@
+Pour lancer le projet : 
+
+1. Télécharger le parseur stanford version 3.5.1 (https://nlp.stanford.edu/software/stanford-parser-full-2015-01-29.zip)
+
+2. Extraire avec un gestionnaire d'archives l'archive stanford-parser-3.5.1-models.jar contenu dans le dossier du parseur.
+
+
+
+2. Modifier dans le fichier extractor.py les path du parseur necessaires (3 path à modifier)
+3. executer "./run.sh Filename" (Attention aux permissions sur le fichier run.sh )
+
+Le programme va sortir 3 fichiers: 
+text contient le texte séquencé en phrase (1 phrase par ligne). 
+
+graph contient le graph RDF au format 'sujet predicat objet' (1 triplet par ligne). 
+
+Et mygraph.png contient l'image du graph.
